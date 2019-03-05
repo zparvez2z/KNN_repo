@@ -1,0 +1,1 @@
+This is KNN project with unsure data labels . Here the dataset has labels , but the meaning of the labels are unknownk . Irrespective of proper understanding of data labels , I tried to classify the data using KNN. I kind of worked great !
